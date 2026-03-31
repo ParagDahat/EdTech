@@ -1,5 +1,5 @@
 import SpotlightCard from './SpotLightCard';
-import mentor1 from '/vrushab.webp';
+import mentor1 from '/mentor1.jpg';
 // import mentor2 from '../assets/mentor2.jpg';
 // import mentor3 from '../assets/mentor3.jpg';
 

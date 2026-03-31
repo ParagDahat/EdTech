@@ -16,7 +16,7 @@ export const GetStartedPage = () => {
             animate={{ opacity: 1, y: 0 }}
             className="text-5xl font-bold text-center mb-6"
           >
-            Get Started with <span className="text-red-600">Calibre</span>
+            Get Started with <span className="text-red-600">EdTech</span>
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
